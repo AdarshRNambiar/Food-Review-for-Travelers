@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Common items" android:id="@+id/comm"/>
+    <item android:title="Kasaragod" android:id="@+id/kasar" />
+    <item android:title="Kannur" android:id="@+id/kann" />
+    <item android:title="Kozhikode" android:id="@+id/kozhi" />
+    <item android:title="Wayanad" android:id="@+id/way" />
+    <item android:title="Malappuram" android:id="@+id/mal" />
+    <item android:title="Palakkad" android:id="@+id/pala" />
+    <item android:title="Thrissur" android:id="@+id/thri" />
+    <item android:title="Ernakulam" android:id="@+id/erna" />
+    <item android:title="Idukki" android:id="@+id/iduk" />
+    <item android:title="Kottayam" android:id="@+id/kotta" />
+    <item android:title="Alappuzha" android:id="@+id/alappu" />
+    <item android:title="Pathanamthitta" android:id="@+id/pathanam" />
+    <item android:title="Kollam" android:id="@+id/kol" />
+    <item android:title="Thiruvananthapuram" android:id="@+id/thiru" />
+
+
+</menu>
